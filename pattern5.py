@@ -1,5 +1,4 @@
 #left-side Reapeted row number triangle
-
 n = int(input("Enter Number"))
 for i in range(1 ,n+1):
     print(" ",end=" \n")
